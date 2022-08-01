@@ -1,5 +1,7 @@
 # Checking Ledger
 This application allows one to track transactions via a Tkinter application.
+It creates a local CSV file called ledger.csv, set to append instead of write
+for users who have previously logged transactions.
 The application contains three buttons:
   Button 1 modifies a remote CSV file to add transactions.
   Button 2 does the same to remove transactions.
