@@ -1,3 +1,5 @@
+#***NOTE: This file creates a local file on the user's device and must be downloaded to work properly.***
+
 from tkinter import *
 from tkinter import messagebox
 import csv
